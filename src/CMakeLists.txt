@@ -16,3 +16,12 @@ target_link_libraries(smoothing ${OpenCV_LIBS})
 
 add_executable(trans ch1/Ex5_trans.cpp)
 target_link_libraries(trans ${OpenCV_LIBS})
+
+add_executable(canny ch1/Ex6_canny.cpp)
+target_link_libraries(canny ${OpenCV_LIBS})
+
+add_executable(capture ch1/Ex9_cameracapture.cpp)
+target_link_libraries(capture ${OpenCV_LIBS})
+
+add_executable(writeavi ch1/Ex10_writetoavi.cpp)
+target_link_libraries(writeavi ${OpenCV_LIBS})
