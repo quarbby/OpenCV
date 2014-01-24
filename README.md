@@ -1,7 +1,8 @@
 OpenCV
 ======
 
-Exercises from the book Learning OpenCV by Gary Bradski, Adrian Kaehler, OReilly
+Examples from the book Learning OpenCV by Gary Bradski, Adrian Kaehler, OReilly
+More to come... exercises
 
 Built with ROS catkin packages
 

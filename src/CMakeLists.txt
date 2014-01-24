@@ -43,3 +43,10 @@ target_link_libraries(mouse ${OpenCV_LIBS})
 
 add_executable(trackbar2 ch4/Ex4_2.cpp)
 target_link_libraries(trackbar2 ${OpenCV_LIBS})
+
+#For testing 
+add_executable(blob test/blob.cpp)
+target_link_libraries(blob ${OpenCV_LIBS})
+
+add_executable(blob2 test/blob2.cpp)
+target_link_libraries(blob2 ${OpenCV_LIBS})
