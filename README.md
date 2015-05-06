@@ -13,7 +13,6 @@ Developed GUIs for [BumbleBee Autonomous Underwater Vehicle] (www.bbauv.com) for
 
 [Youtube Video for Orbital] (https://youtu.be/kEdiGJEMdXE)
 
-Vision Filter 
 ![Vision Filter](bbauv/orbital 2014/visionfilter1.png)
 
 SAUVC 2014 and Robosub 2014 
@@ -28,5 +27,4 @@ SAUVC 2014 and Robosub 2014
 
 [BBAUV Robosub 2014 Journal Papers] (https://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedImages/2014%20RoboSub/2014%20Journal%20Papers/paper%20(1).pdf)
 
-BBAUV at NOAA Tech Tank
 ![BBAUV at NOAA Tech Tank](bbauv/robosub 2014/techtank.jpg)
