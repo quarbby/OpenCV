@@ -1,6 +1,12 @@
 OpenCV
 ======
 
+OpenCV C++ Builds with Qt Support
+-----
+Needed to use [Qt New Functions](http://docs.opencv.org/2.4/modules/highgui/doc/qt_new_functions.html). 
+
+More about the builds can be found [here](./opencvbuilds/opencvbuilds.md)
+
 Learning OpenCV Exercises
 ------
 Examples from the book [Learning OpenCV] (http://www.cse.iitk.ac.in/users/vision/dipakmj/papers/OReilly%20Learning%20OpenCV.pdf) by Gary Bradski, Adrian Kaehler, OReilly 
